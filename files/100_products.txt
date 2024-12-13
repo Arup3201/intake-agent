@@ -1,0 +1,100 @@
+Slack - 50 users - ₹554/user/month - 2025-01-01 (Renewal Date)  
+Microsoft Teams - 100 users - ₹332/user/month - 2025-02-15 (Renewal Date)  
+Asana Premium - 25 users - ₹915/user/month - 2025-03-10 (Renewal Date)  
+ClickUp - 30 users - ₹416/user/month - 2025-03-05 (Renewal Date)  
+Monday.com - 20 users - ₹665/user/month - 2025-04-01 (Renewal Date)  
+Trello Business - 40 users - ₹832/user/month - 2025-03-15 (Renewal Date)  
+Jira Software - 60 users - ₹644/user/month - 2025-01-30 (Renewal Date)  
+Adobe Creative Cloud - 10 users - ₹4,620/user/month - 2025-02-01 (Renewal Date)  
+Canva for Teams - 15 users - ₹1,092/user/month - 2025-06-01 (Renewal Date)  
+Figma Professional - 12 users - ₹1,008/user/month - 2025-05-01 (Renewal Date)  
+Zoom Pro - 25 licenses - ₹12,492/license/year - 2025-09-01 (Expiry Date)  
+Webex - 30 licenses - ₹1,124/user/month - 2025-03-10 (Renewal Date)  
+Google Workspace Business Standard - 50 users - ₹998/user/month - 2025-07-01 (Renewal Date)  
+Dropbox Business - 20 users - ₹1,248/user/month - 2025-05-01 (Renewal Date)  
+OneDrive for Business - 25 users - ₹416/user/month - 2025-08-01 (Renewal Date)  
+Salesforce Sales Cloud - 10 users - ₹6,240/user/month - 2025-04-01 (Renewal Date)  
+HubSpot CRM Starter - 15 users - ₹1,664/user/month - 2025-06-15 (Renewal Date)  
+QuickBooks Online Plus - 5 users - ₹7,068/user/month - 2025-12-01 (Renewal Date)  
+FreshBooks Premium - 8 users - ₹4,572/user/month - 2025-03-15 (Renewal Date)  
+Zendesk Suite - 20 users - ₹6,576/user/month - 2025-07-01 (Renewal Date)  
+McAfee Endpoint Protection - 75 devices - ₹2,164/device/year - 2025-10-01 (Expiry Date)  
+Norton 360 Deluxe - 50 devices - ₹8,742/year - 2025-10-15 (Expiry Date)  
+Bitdefender GravityZone - 100 devices - ₹2,492/device/year - 2025-09-10 (Expiry Date)  
+AWS Cloud Services - ₹41,640/month - No Expiry  
+Azure Cloud Services - ₹37,485/month - No Expiry  
+GCP (Google Cloud Platform) - ₹33,320/month - No Expiry  
+MacBook Pro 16" (2023) - 15 units - ₹2,07,412/unit - No Expiry  
+MacBook Air M2 - 25 units - ₹91,115/unit - No Expiry  
+Dell XPS 13 - 20 units - ₹1,11,792/unit - No Expiry  
+Lenovo ThinkPad X1 Carbon - 15 units - ₹1,45,000/unit - No Expiry  
+HP EliteBook 850 - 10 units - ₹1,03,792/unit - No Expiry  
+Logitech MX Master 3S Mouse - 50 units - ₹8,288/unit - No Expiry  
+Logitech MX Keys Keyboard - 40 units - ₹9,948/unit - No Expiry  
+Microsoft Surface Dock 2 - 25 units - ₹21,585/unit - No Expiry  
+Anker PowerExpand Dock - 30 units - ₹16,616/unit - No Expiry  
+Cisco Meraki Firewall - 5 units - ₹74,992/unit - No Expiry  
+Ubiquiti UniFi AP - 10 units - ₹12,492/unit - No Expiry  
+HP LaserJet Pro MFP - 10 units - ₹24,992/unit - No Expiry  
+Dell UltraSharp Monitor 27" - 20 units - ₹56,784/unit - No Expiry  
+Samsung Smart Monitor M8 - 15 units - ₹58,784/unit - No Expiry  
+Wacom Cintiq 22 - 5 units - ₹1,00,000/unit - No Expiry  
+Apple iPad Pro 12.9" (2023) - 10 units - ₹91,115/unit - No Expiry  
+Airtable Pro - 25 users - ₹1,664/user/month - 2025-03-01 (Renewal Date)  
+Notion Business - 15 users - ₹665/user/month - 2025-02-01 (Renewal Date)  
+Toggl Track Premium - 20 users - ₹748/user/month - 2025-06-01 (Renewal Date)  
+LastPass Teams - 30 users - ₹332/user/month - 2025-03-15 (Renewal Date)  
+Okta Workforce Identity - 50 users - ₹332/user/month - 2025-05-01 (Renewal Date)  
+GitHub Enterprise - 40 users - ₹1,740/user/month - 2025-07-01 (Renewal Date)  
+Visual Studio Professional - 10 licenses - ₹3,735/license/month - 2025-08-15 (Renewal Date)  
+Atlassian Confluence - 30 users - ₹832/user/month - 2025-09-01 (Renewal Date)  
+Zoom Phone - 20 users - ₹1,500/user/month - 2025-05-15 (Renewal Date)  
+Slack Enterprise Grid - 100 users - ₹2,000/user/month - 2025-06-01 (Renewal Date)  
+Basecamp - 15 users - ₹7,500/month - 2025-07-01 (Renewal Date)  
+Procreate - 20 licenses - ₹9,000/license - No Expiry  
+Xero Accounting - 10 users - ₹3,000/user/month - 2025-05-01 (Renewal Date)  
+Trello Enterprise - 50 users - ₹4,000/user/month - 2025-07-15 (Renewal Date)  
+Hootsuite Business - 20 users - ₹7,000/user/month - 2025-03-01 (Renewal Date)  
+Buffer Premium - 10 users - ₹3,500/user/month - 2025-05-01 (Renewal Date)  
+Mailchimp Standard - 5 users - ₹2,500/user/month - 2025-07-01 (Renewal Date)  
+Tableau Professional - 8 licenses - ₹6,500/license/month - 2025-03-01 (Renewal Date)  
+Microsoft Power BI - 25 users - ₹1,600/user/month - 2025-04-15 (Renewal Date)  
+Adobe XD - 10 users - ₹1,000/user/month - 2025-06-01 (Renewal Date)  
+Freshchat Pro - 15 users - ₹3,000/user/month - 2025-08-01 (Renewal Date)  
+Pingdom Advanced - 5 users - ₹5,000/user/month - 2025-09-01 (Renewal Date)  
+Zoho CRM Enterprise - 30 users - ₹2,500/user/month - 2025-06-01 (Renewal Date)  
+Zapier Professional - 10 users - ₹5,000/user/month - 2025-07-01 (Renewal Date)  
+Zoom Webinar - 50 attendees - ₹50,000/year - 2025-08-01 (Renewal Date)  
+Dropbox Enterprise - 100 users - ₹10,000/user/month - 2025-06-01 (Renewal Date)  
+AWS Elastic Compute Cloud (EC2) - ₹20,000/month - No Expiry  
+Azure Kubernetes Service (AKS) - ₹25,000/month - No Expiry  
+Google Cloud AI Platform - ₹15,000/month - No Expiry  
+Apple Mac Studio - 10 units - ₹2,00,000/unit - No Expiry  
+HP ZBook Studio - 5 units - ₹1,80,000/unit - No Expiry  
+Dell Precision 5760 - 8 units - ₹2,10,000/unit - No Expiry  
+Samsung Galaxy Tab S8 - 12 units - ₹70,000/unit - No Expiry  
+Wacom Intuos Pro - 15 units - ₹40,000/unit - No Expiry  
+Canon EOS R5 - 5 units - ₹3,40,000/unit - No Expiry  
+Sony A7 III - 10 units - ₹2,00,000/unit - No Expiry  
+Nikon Z9 - 3 units - ₹5,00,000/unit - No Expiry  
+Microsoft HoloLens 2 - 5 units - ₹3,00,000/unit - No Expiry  
+Meta Quest Pro - 10 units - ₹1,20,000/unit - No Expiry  
+Amazon Echo Show 10 - 15 units - ₹25,000/unit - No Expiry  
+Google Nest Hub Max - 20 units - ₹20,000/unit - No Expiry  
+Ring Video Doorbell Pro - 25 units - ₹15,000/unit - No Expiry  
+Philips Hue Smart Lights - 50 units - ₹5,000/unit - No Expiry  
+Samsung Smart Fridge - 5 units - ₹3,00,000/unit - No Expiry  
+LG Smart Washer - 10 units - ₹1,50,000/unit - No Expiry  
+Todoist Business - 25 users - ₹750/user/month - 2025-05-10 (Renewal Date)  
+Smartsheet Pro - 30 users - ₹1,200/user/month - 2025-06-15 (Renewal Date)  
+Wrike Professional - 20 users - ₹1,320/user/month - 2025-07-01 (Renewal Date)  
+Basecamp Personal - 50 users - ₹5,500/month - 2025-08-01 (Renewal Date)  
+Lucidchart Team - 15 users - ₹1,020/user/month - 2025-04-01 (Renewal Date)  
+Evernote Teams - 20 users - ₹800/user/month - 2025-03-10 (Renewal Date)  
+Dropbox Family - 10 users - ₹1,050/user/month - 2025-05-20 (Renewal Date)  
+pCloud Business - 25 users - ₹950/user/month - 2025-06-01 (Renewal Date)  
+Zoho Projects - 20 users - ₹500/user/month - 2025-07-10 (Renewal Date)  
+Microsoft Visio Plan 2 - 12 users - ₹1,000/user/month - 2025-08-01 (Renewal Date)  
+Microsoft Project Online - 10 users - ₹2,500/user/month - 2025-03-01 (Renewal Date)  
+SharePoint Online Plan 2 - 30 users - ₹500/user/month - 2025-04-01 (Renewal Date)  
+Zoom Enterprise - 200 users - ₹3,500/user/month - 2025-07-15 (Renewal Date)
